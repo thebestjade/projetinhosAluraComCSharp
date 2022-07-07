@@ -1,0 +1,8 @@
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.exe.config
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\LacosDeRepeticao\bin\Debug\LacosDeRepeticao.pdb
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\LacosDeRepeticao\obj\Debug\LacosDeRepeticao.pdb

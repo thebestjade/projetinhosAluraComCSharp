@@ -1,0 +1,8 @@
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\FixandoForREAK\bin\Debug\FixandoForREAK.exe.config
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\FixandoForREAK\bin\Debug\FixandoForREAK.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\FixandoForREAK\bin\Debug\FixandoForREAK.pdb
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\FixandoForREAK\obj\Debug\FixandoForREAK.csproj.AssemblyReference.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\FixandoForREAK\obj\Debug\FixandoForREAK.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\FixandoForREAK\obj\Debug\FixandoForREAK.csproj.CoreCompileInputs.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\FixandoForREAK\obj\Debug\FixandoForREAK.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\FixandoForREAK\obj\Debug\FixandoForREAK.pdb

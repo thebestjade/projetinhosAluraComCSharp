@@ -1,0 +1,7 @@
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\testaPontoFlutuante\bin\Debug\testaPontoFlutuante.exe.config
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\testaPontoFlutuante\bin\Debug\testaPontoFlutuante.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\testaPontoFlutuante\bin\Debug\testaPontoFlutuante.pdb
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\testaPontoFlutuante\obj\Debug\testaPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\testaPontoFlutuante\obj\Debug\testaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\testaPontoFlutuante\obj\Debug\testaPontoFlutuante.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\testaPontoFlutuante\obj\Debug\testaPontoFlutuante.pdb

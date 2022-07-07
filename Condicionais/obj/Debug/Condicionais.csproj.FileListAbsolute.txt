@@ -1,0 +1,7 @@
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\Condicionais\bin\Debug\Condicionais.exe.config
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\Condicionais\bin\Debug\Condicionais.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\Condicionais\bin\Debug\Condicionais.pdb
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\Condicionais\obj\Debug\Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\Condicionais\obj\Debug\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\Condicionais\obj\Debug\Condicionais.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\Condicionais\obj\Debug\Condicionais.pdb

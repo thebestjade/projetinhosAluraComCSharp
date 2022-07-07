@@ -1,0 +1,7 @@
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\DescobrindoFatorial\bin\Debug\DescobrindoFatorial.exe.config
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\DescobrindoFatorial\bin\Debug\DescobrindoFatorial.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\DescobrindoFatorial\bin\Debug\DescobrindoFatorial.pdb
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\DescobrindoFatorial\obj\Debug\DescobrindoFatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\DescobrindoFatorial\obj\Debug\DescobrindoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\DescobrindoFatorial\obj\Debug\DescobrindoFatorial.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\DescobrindoFatorial\obj\Debug\DescobrindoFatorial.pdb

@@ -1,0 +1,8 @@
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\BrincandoComCharEString\bin\Debug\BrincandoComCharEString.exe.config
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\BrincandoComCharEString\bin\Debug\BrincandoComCharEString.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\BrincandoComCharEString\bin\Debug\BrincandoComCharEString.pdb
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\BrincandoComCharEString\obj\Debug\BrincandoComCharEString.csproj.AssemblyReference.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\BrincandoComCharEString\obj\Debug\BrincandoComCharEString.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\BrincandoComCharEString\obj\Debug\BrincandoComCharEString.csproj.CoreCompileInputs.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\BrincandoComCharEString\obj\Debug\BrincandoComCharEString.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\BrincandoComCharEString\obj\Debug\BrincandoComCharEString.pdb

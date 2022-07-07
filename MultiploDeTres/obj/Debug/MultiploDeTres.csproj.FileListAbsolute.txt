@@ -1,0 +1,7 @@
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\MultiploDeTres\bin\Debug\MultiploDeTres.exe.config
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\MultiploDeTres\bin\Debug\MultiploDeTres.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\MultiploDeTres\bin\Debug\MultiploDeTres.pdb
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\MultiploDeTres\obj\Debug\MultiploDeTres.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\MultiploDeTres\obj\Debug\MultiploDeTres.csproj.CoreCompileInputs.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\MultiploDeTres\obj\Debug\MultiploDeTres.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\MultiploDeTres\obj\Debug\MultiploDeTres.pdb

@@ -1,0 +1,8 @@
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\1 - primeiroProjeto\bin\Debug\1 - primeiroProjeto.exe.config
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\1 - primeiroProjeto\bin\Debug\1 - primeiroProjeto.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\1 - primeiroProjeto\bin\Debug\1 - primeiroProjeto.pdb
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\1 - primeiroProjeto\obj\Debug\1 - primeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\1 - primeiroProjeto\obj\Debug\1 - primeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\1 - primeiroProjeto\obj\Debug\1 - primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\1 - primeiroProjeto\obj\Debug\1 - primeiroProjeto.exe
+C:\Users\jlopes\source\repos\1 - primeiroProjeto\1 - primeiroProjeto\obj\Debug\1 - primeiroProjeto.pdb
